@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 // import { Container } from './styles';
 
@@ -8,7 +8,7 @@ export default function Footer() {
       <div>
         <h2>Newsletter</h2>
         <br />
-        <p>Receba nossas promoções e novodades. Inscreva-se</p>
+        <p>Receba nossas promoções e novidades. Inscreva-se</p>
       </div>
       <form>
         <input type="text" placeholder="Seu nome" />
